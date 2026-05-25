@@ -85,8 +85,8 @@ The Power BI dashboard includes:
 
 ## 👤 Author
 
-**[Your Name]**  
-Data Analyst | Power BI • Excel • Python 
+**[Youssef Mohammed Soliman]**  
+Data Analyst | Power BI • Excel • Python.
 [LinkedIn](https://linkedin.com/in/youssefmohammedsoliman) 
 
 ---
